@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**amarpreetbhatia/amarpreetbhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **amarpreetbhatia's** ✨ _special_ ✨ GitHub profile.
 
-Here are some ideas to get you started:
+Some quick notes on me 💠
 
 - 🔭 I’m currently working on Microservices, ReactJS, helping development teams in day to day coding and unit testing.
 - 🌱 I’m currently learning Machine Learning 🛰️ , Kafka 💻
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Career growth and development.
 - 💬 Ask me about, I like to do hands-on coding projects, working on new emerging frameworks, keen to learn new things, always
 - 📫 How to reach me: 📲 https://www.linkedin.com/in/amarpreetbhatia/ message me
--->
