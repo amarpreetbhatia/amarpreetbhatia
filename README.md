@@ -15,5 +15,5 @@ Some quick notes on me 💠
 
 
 [![Amarpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpreetbhatia&show_icons=true&theme=tokyonight)](https://github.com/amarpreetbhatia/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpreetbhatia&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/amarpreetbhatia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpreetbhatia&count_private=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/amarpreetbhatia/github-readme-stats)
 
