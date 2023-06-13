@@ -4,8 +4,8 @@ Welcome to **amarpreetbhatia's** ✨ _special_ ✨ GitHub profile.
 
 Some quick notes on me 💠
 
-- 🔭 I’m actively working on Cloud Plateforms(AWS,GCP,Azure), Microservices, ReactJS, helping development teams in Soultion Designing, Mentoring, day-to-day coding and unit testing.
-- 🌱 I’m currently learning Machine Learning 🛰️ 
+- 🔭 I’m actively working on Cloud Platforms(AWS,GCP,Azure), Microservices, ReactJS, helping development teams in Soultion Designing, Mentoring, day-to-day coding and unit testing.
+- 🌱 I’m interested in Machine Learning 🛰️ , Generative AI 🤖
 - 👯 I’m open to collaborate on Open source projects, where I can contribute as programmer using Java, javascript or Kotlin languages.
 - 💬 Things to do, like to do hands-on coding projects, working on new emerging frameworks, keen to learn new things, always
 - 📫 How to reach me: 📲 https://www.linkedin.com/in/amarpreetbhatia/ message me
