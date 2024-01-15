@@ -12,8 +12,7 @@ Some quick notes on me 💠
 
 <details>
   <summary>Resume</summary>
-   Here is a version of the resume with improved formatting to make it more visually impressive:
-
+  
 # Amarpreet Bhatia
 
 **(+61) 481-785-348 | amarpreetbhatia@gmail.com**
