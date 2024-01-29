@@ -11,11 +11,11 @@ Some quick notes on me 💠
 - 📫 How to reach me: 📲 https://www.linkedin.com/in/amarpreetbhatia/ message me
 
 <details>
-  <summary>Resume</summary>
+  <summary> ###Resume </summary>
   
 # Amarpreet Bhatia
 
-**(+61) 481-785-348 | amarpreetbhatia@gmail.com**
+**amarpreetbhatia@gmail.com**
 
 ------
 
@@ -39,7 +39,7 @@ Accomplished technology leader with over 15 years of experience driving digital 
 
 ## Experience
 
-### Westpac Group, Sydney — *Technical Lead/Solution Architect*
+### Westpac Group, Sydney — *Technical Lead/Solution Engineer*
 #### May 2022 - Present
 
 - Established a **cloud-native architecture** leveraging **microservices**, **containers**, and **serverless** computing to modernize legacy applications. Reduced costs by 35% and improved scalability.
