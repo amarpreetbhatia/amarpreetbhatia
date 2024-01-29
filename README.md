@@ -10,8 +10,9 @@ Some quick notes on me 💠
 - 💬 Things to do, like to do hands-on coding projects, working on new emerging frameworks, keen to learn new things, always
 - 📫 How to reach me: 📲 https://www.linkedin.com/in/amarpreetbhatia/ message me
 
+### Resume
 <details>
-  <summary> ###Resume </summary>
+  <summary>Click me to view Resume</summary>
   
 # Amarpreet Bhatia
 
