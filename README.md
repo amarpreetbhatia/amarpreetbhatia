@@ -102,15 +102,3 @@ Accomplished technology leader with over 15 years of experience driving digital 
 
 ------
 </details>
-
-- Some at Glance details 📈
-
-
-[![Amarpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarpreetbhatia&show_icons=true&theme=tokyonight)](https://github.com/amarpreetbhatia/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarpreetbhatia&count_private=true&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/amarpreetbhatia/github-readme-stats)
-
-Collection of Github peojects to follow:
-
-https://twitter.com/madzadev/status/1596520620245884930?t=4ihJAZYJpszLFiKfHBgr3g&s=19
-https://twitter.com/Prathkum/status/1597832819010867200?t=Wsd9vb_ABZ5Yzp4B7hbp4A&s=19
-https://twitter.com/alexxubyte/status/1551955229356146690?t=eEh81QjS-NKkk7-A_LQ6RA&s=19
