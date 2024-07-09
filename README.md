@@ -15,7 +15,7 @@ Some quick notes on me 💠
   <summary>Click me to view Resume</summary>
   
 # Amarpreet Bhatia
-(+61) 481-785-348 | amarpreetbhatia@gmail.com
+amarpreetbhatia@gmail.com
 
 ## Professional Summary
 Seasoned Solution Architect and Technical Lead with over 15 years of experience in designing, implementing, and leading complex IT projects. Proven track record in hands-on development using Java, NodeJS, and cloud technologies, coupled with strong leadership skills in guiding cross-functional teams. Expertise in:
