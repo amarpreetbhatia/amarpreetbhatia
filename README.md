@@ -15,90 +15,79 @@ Some quick notes on me 💠
   <summary>Click me to view Resume</summary>
   
 # Amarpreet Bhatia
-
-**amarpreetbhatia@gmail.com**
-
-------
+(+61) 481-785-348 | amarpreetbhatia@gmail.com
 
 ## Professional Summary
+Seasoned Solution Architect and Technical Lead with over 15 years of experience in designing, implementing, and leading complex IT projects. Proven track record in hands-on development using Java, NodeJS, and cloud technologies, coupled with strong leadership skills in guiding cross-functional teams. Expertise in:
 
-Accomplished technology leader with over 15 years of experience driving digital transformation and adopting cloud-native architectures. Skilled in leveraging emerging technologies to deliver innovative solutions that accelerate business growth.
+- Full-stack development with Java, Spring Boot, NodeJS, and ReactJS
+- Cloud solutions using AWS and Google Cloud Platform (GCP)
+- API design and management (REST, SOAP, Apigee)
+- Microservices architecture and containerization (Docker, Kubernetes)
+- DevOps practices and CI/CD implementation
+- Agile methodologies and team leadership
 
-**Key Strengths:**
+## Professional Experience
 
-- **Cloud Architecture** - Designed and implemented complex cloud-native applications on AWS, GCP, and Azure, leveraging containers, serverless, and microservices to achieve scalability, resiliency, and automation.
+### Technical Lead/Solution Designer
+**Westpac Group (Employer Infosys Technology), Sydney** | May 2022 - Present
 
-- **Technical Leadership** - Led multiple teams of up to 10 engineers across full-stack development, DevOps, data, and infrastructure. Rallied cross-functional teams to achieve technology vision. 
+- Led the design and implementation of microservices using Java Spring Boot and NodeJS, deployed on AWS and GCP
+- Spearheaded the migration of legacy batch processes to Spring Boot Batch, improving performance and scalability
+- Conducted code reviews and mentored team members in Java, Spring, JavaScript, and NodeJS best practices
+- Drove the adoption of DevOps practices, implementing CI/CD pipelines that reduced deployment times by 40%
+- Architected and executed a proof of concept for migrating an AngularJS 1.x application to React
 
-- **Solution Delivery** - Delivered high-value solutions as lead architect and engineer across various industries. Strong track record of on-time, on-budget delivery.
+### Service Lead Engineer
+**Macquarie Group, Sydney** | November 2021 - April 2022
 
-- **Strategic Thinking** - Forward-thinking mindset with ability to understand business needs and map technology solutions to strategic goals. Champion emerging technologies.
+- Collaborated with stakeholders to design and implement solutions aligned with business requirements
+- Facilitated Agile practices, including backlog grooming and user story refinement, to support development teams
 
-- **Communication & Influence** - Excellent communication skills, able to distill complex concepts and influence stakeholders at all levels.
+### FullStack Lead Engineer
+**Cognizant Technology Solutions, Sydney/Melbourne** | November 2016 - November 2021
 
-------
+- Led full-stack development projects for major clients including Telstra and ANZ
+- Designed and developed microservices in Java and Kotlin using Spring Boot, deployed on AWS, Cloudfoundry, and GKE
+- Implemented Backend for Frontend (BFF) pattern to optimize API consumption by web and mobile clients
+- Architected and developed an AWS Lambda service using Serverless Application Model (SAM) in NodeJS
+- Designed a proof of concept using Spring Boot and Spring Cloud, implementing CQRS pattern and event-driven architecture with Axon framework
 
-## Experience
+### Technical Architect
+**Fidelity Information Services, Noida, India** | November 2015 - November 2016
 
-### Westpac Group, Sydney — *Technical Lead/Solution Engineer*
-#### May 2022 - Present
+- Led the development of an automated UI testing tool with a user-friendly web interface
+- Implemented DevOps practices, including Jenkins and Bamboo for CI/CD, resulting in 30% faster delivery times
 
-- Established a **cloud-native architecture** leveraging **microservices**, **containers**, and **serverless** computing to modernize legacy applications. Reduced costs by 35% and improved scalability.
+### Technical Specialist
+**NIIT Technologies, Noida, India** | April 2015 - November 2015
 
-- Led migration of critical workloads from on-premises to AWS cloud, involving planning, security reviews, execution, and optimization.
+- Served as the primary technical contact for three Scrum teams, integrating SITA products and web applications using SOA architecture
+- Designed and implemented an OAuth2-based authentication system for enhanced security
 
-- Introduced **DevSecOps** practices including **infrastructure-as-code**, **CI/CD** pipelines, and automation testing. Shortened release cycles by 40%. 
+### Senior Associate
+**Cognizant Technology Solution, Zurich, Switzerland** | Aug 2006 - July 2014
 
-- Provided thought leadership and mentorship on cloud-native development, microservices, and other technologies.
+- Led development of complex software solutions for Credit Suisse using Core Java, REST APIs, and Web Services
+- Designed and implemented end-to-end flow for Currency Credit Transfer, including SWIFT message handling and ISO 20022 standard migration
+- Integrated content management tool OneCMS with web applications, enhancing user experience for relationship managers
 
-### Macquarie Group, Sydney — *Lead Platform Engineer* 
-#### Nov 2021 - April 2022
+## Education and Certifications
 
-- Architected a new **cloud-native digital platform** on GCP to enable rapid innovation. Reduced time-to-market for new products by 60%.
-
-- Chosen as technical lead for modernizing core banking applications. Evaluated migration options and created execution roadmap.
-
-- Drove adoption of **Kubernetes**, implementing self-service infrastructure, CI/CD pipelines, and **GitOps**.
-
-- Evangelized test-driven development, automated testing, and other engineering best practices.
-
-### Cognizant Technology Solutions, Sydney/Melbourne — *Full Stack Lead Engineer*
-#### Nov 2016 - Nov 2021
-
-- Led multiple strategic programs as lead engineer and full stack community leader. Delivered complex solutions using **Java**, **Spring Boot**, **React**, **Node.js**, and **AWS** cloud. 
-
-- Implemented **API gateways**, **microservices**, **event-driven architecture**, and other technologies to evolve monoliths into cloud-native applications.
-
-- Championed **DevOps** practices including CI/CD, infrastructure-as-code, and automation. Transformed delivery, boosted quality and reliability.
-
-- Provided hands-on technical leadership to offshore teams. Set direction and coached team members to improve skills.
-
-### Fidelity Information Services, Noida — *Principal Architect*
-#### Nov 2015 - Nov 2016
-
-- Created vision and technology strategy for modernizing legacy applications. Evaluated technologies and set roadmap.
-
-- Led adoption of agile methodologies, implemented CI/CD, test automation, and cloud infrastructure.
-
-- Mentored teams on design patterns, architecture best practices, and clean coding standards. Conducted architecture and design reviews. 
-
-- Developed reusable frameworks and custom tools to improve engineering efficiency.
-
-------
-
-## Education
-
-**Bachelor of Engineering in Computer Science**
-*Guru Ramdas Khalsa Institute of Science and Technology, 1999-2003* 
-
-------
-
-## Certifications
-
-- AWS Certified Solutions Architect - Associate (2020)
-- Certified Kubernetes Application Developer 
+- Bachelor of Engineering in Computer Science, Guru Ramdas Khalsa Institute Of Science And Technology, 2003
+- AWS Certified Solution Architect Associate, 2020
+- Certified Kubernetes Application Developer
 - Microsoft Certified: Azure Fundamentals
-- SAFe 5 Certified Practitioner
+- Certified SAFe® 5 Practitioner
+- TMF (TM Forum) – Open Digital Architecture Foundation Level Exam, 2021
 
-------
+## Technical Skills
+
+- Languages: Java, Kotlin, JavaScript, Python
+- Frameworks: Spring Boot, ReactJS, NodeJS, AngularJS
+- Cloud Platforms: AWS, Google Cloud Platform (GCP)
+- DevOps: Jenkins, Bamboo, Docker, Kubernetes
+- API Management: Apigee, Swagger
+- Databases: SQL, NoSQL
+- Methodologies: Agile, SAFe, CQRS, Event-Driven Architecture
 </details>
